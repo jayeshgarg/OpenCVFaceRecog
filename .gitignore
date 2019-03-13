@@ -1,0 +1,45 @@
+# Compiled source #
+*.class
+*/bin/*
+
+# Eclipse files
+.project
+.classpath
+.settings/
+.metadata/
+
+# IDEA
+.idea/
+*.iml
+
+# Packages
+*.jar
+
+# Maven build files
+target/
+reports
+# ARQ tests
+arq-perf
+
+# PMD
+.pmd
+
+# Merge files
+*.orig
+
+# backup files
+*.*~
+*.swp
+
+#log files
+*.log
+
+# checkstyle file
+.checkstyle
+
+*.patch
+*.diff
+
+recognizers/*
+pickles/*
+images/*
