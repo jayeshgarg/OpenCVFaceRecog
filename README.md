@@ -1,13 +1,13 @@
 # OpenCVFaceRecog
 
 ## faces.py
-Will used the learned data(in pickels and recognizers) to idenfiy a person or object in live video feed.
+Will used the learned data (in pickels and recognizers) to idenfiy a person or object in live video feed.
 
 ## faces_train.py
 Will help you in training the model with static images places inside images folder. (refer readme inside it)
 
 ## faces_train_live.py
-Will help you in training the model with live video feed. This ca be used to training multiple people within same live feed but only one person at a time.
+Will help you in training the model with live video feed. This can be used to train multiple people within same live feed but only one person at a time.
 
 For more detials please refer the code as more documentation is not yet done.
 
