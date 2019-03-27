@@ -22,3 +22,8 @@ For more detials please refer the code as more documentation is not yet done.
 > Note 2: I do not remember from where i have taken references and hence as of now its not possible for me to put the references. Please in case if I have used your work or code and you want you reference to be mentioned here, do let me know. This is for learning only and not a meant for commercial use by me.
 
 > Note 3: In case if you have any patch that you would like to be merged, please do let me know with pull request. I'll review it and merge it. Otherwise, I'll create a folder by your name/id and put the merged file there for everyone to see.
+
+## Credits
+- https://www.pyimagesearch.com/
+- https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/
+- https://www.linkedin.com/in/adrian-rosebrock-59b8732a/
