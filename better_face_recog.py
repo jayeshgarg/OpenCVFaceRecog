@@ -10,7 +10,7 @@ from keras.models import load_model
 from imutils.video import VideoStream
 
 detector = "face_detector"
-model = "liveness.model"
+model = "model/liveness.model"
 le = "pickles/le.pickle"
 min_confidence = 0.5
 
@@ -83,5 +83,4 @@ while True:
     if key == ord("q"):
         break
 
-vs.release()
 cv2.destroyAllWindows()
